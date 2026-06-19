@@ -1,0 +1,8 @@
+{
+  "name": "FitLife 2",
+  "description": "Modern fitness companion application with smooth animations, local database trackers for hydration, workouts, calories and steps, featuring an AI Fit Coach powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
